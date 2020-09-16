@@ -1,0 +1,48 @@
+('C:\\Users\\R N '
+ 'CHOUBEY\\PythonProjects\\YouTubeDownload\\build\\YouTubeDwnld\\PKG-00.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0},
+ [('PYZ-00.pyz',
+   'C:\\Users\\R N '
+   'CHOUBEY\\PythonProjects\\YouTubeDownload\\build\\YouTubeDwnld\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\R N '
+   'CHOUBEY\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\struct.pyo',
+   'PYMODULE'),
+  ('pyimod01_os_path',
+   'C:\\Users\\R N '
+   'CHOUBEY\\PythonProjects\\YouTubeDownload\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyimod01_os_path.pyc',
+   'PYMODULE'),
+  ('pyimod02_archive',
+   'C:\\Users\\R N '
+   'CHOUBEY\\PythonProjects\\YouTubeDownload\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyimod02_archive.pyc',
+   'PYMODULE'),
+  ('pyimod03_importers',
+   'C:\\Users\\R N '
+   'CHOUBEY\\PythonProjects\\YouTubeDownload\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyimod03_importers.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\R N '
+   'CHOUBEY\\PythonProjects\\YouTubeDownload\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'C:\\Users\\R N '
+   'CHOUBEY\\PythonProjects\\YouTubeDownload\\venv\\lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('YouTubeDwnld',
+   'C:\\Users\\R N CHOUBEY\\PythonProjects\\YouTubeDownload\\YouTubeDwnld.py',
+   'PYSOURCE'),
+  ('YouTubeDwnld.exe.manifest',
+   'C:\\Users\\R N '
+   'CHOUBEY\\PythonProjects\\YouTubeDownload\\build\\YouTubeDwnld\\YouTubeDwnld.exe.manifest',
+   'BINARY')],
+ True,
+ False,
+ False,
+ [])
